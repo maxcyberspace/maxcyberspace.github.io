@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Log on Max&#39;s CyberSpace</title>
+    <link>http://localhost:1313/updates/</link>
+    <description>Recent content in System Log on Max&#39;s CyberSpace</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>April 2026</title>
+      <link>http://localhost:1313/updates/2026/04/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/updates/2026/04/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Site theme changed&lt;/li&gt;&#xA;&lt;li&gt;Website is now hosted on Github pages&lt;/li&gt;&#xA;&lt;li&gt;Using HUGO Static Site Generator for the site maintenance&lt;/li&gt;&#xA;&lt;li&gt;From now on only major updates will be published&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>March 2026</title>
+      <link>http://localhost:1313/updates/2026/04/</link>
+      <pubDate>Wed, 01 Apr 2026 00:22:47 +0530</pubDate>
+      <guid>http://localhost:1313/updates/2026/04/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Changed the website theme&lt;/li&gt;&#xA;&lt;li&gt;Redbubble Shop link is converted into button.&lt;/li&gt;&#xA;&lt;li&gt;Buttons for Home, About, Contact and Shop is added right below website header.&lt;/li&gt;&#xA;&lt;li&gt;Contact/email information is removed from the homepage and is shifted to dedicated &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt; page.&lt;/li&gt;&#xA;&lt;li&gt;About Me is removed from the homepage and is shifted to dedicated &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;About&lt;/a&gt; page.&lt;/li&gt;&#xA;&lt;li&gt;Article &lt;a href=&#34;http://localhost:1313/anime/spyxfamily/&#34;&gt;Review:Windows 10 LTSC&lt;/a&gt; recieved an update.&lt;/li&gt;&#xA;&lt;li&gt;All the sites updates will be published here from now.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

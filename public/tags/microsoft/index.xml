@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft on Max&#39;s CyberSpace</title>
+    <link>http://localhost:1313/tags/microsoft/</link>
+    <description>Recent content in Microsoft on Max&#39;s CyberSpace</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows LTSC</title>
+      <link>http://localhost:1313/tech/windows-ltsc/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech/windows-ltsc/</guid>
+      <description>&lt;p&gt;I moved back to Windows 10 from Linux Mint one and half year back because I was done with the Linux world. Linux is a great operating system for servers and I never got a chance to see its server side, but I was definitely not impressed by the Desktop side of the Linux. I have spent four years using Linux and I have tried many distros in that period but at the end as I grew up I decided to just install Windows 10 LTSC.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+{{ define "main" }}
+<header class="blog-header">
+    <h1>{{ .Title }}</h1>
+</header>
+
+{{ if not .Params.nodate }}
+<p>
+  <i>Published on: {{ .Date.Format "Jan 2, 2006" }}</i>
+  {{ if ne .Lastmod .Date }}
+    | <i>Last Updated: {{ .Lastmod.Format "Jan 2, 2006" }}</i>
+  {{ end }}
+</p>
+{{ end }}
+
+<div class="post-content">
+    {{ .Content }}
+</div>
+{{ end }}
+
+

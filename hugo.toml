@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = "Max's CyberSpace"
+
+[params]
+  description = "Writings on tech, anime, food, and navigating life."
+  author = "Max"
+
+[permalinks]
+  posts = "/:section/:title/"
+  updates = "/updates/:year/:month/"
