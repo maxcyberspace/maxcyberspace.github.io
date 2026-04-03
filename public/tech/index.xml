@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teches on Max&#39;s CyberSpace</title>
-    <link>https://maxcyberspace.github.io/tech/</link>
+    <link>http://localhost:1313/tech/</link>
     <description>Recent content in Teches on Max&#39;s CyberSpace</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://maxcyberspace.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Editing on Android</title>
-      <link>https://maxcyberspace.github.io/tech/editing-on-android/</link>
+      <link>http://localhost:1313/tech/editing-on-android/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://maxcyberspace.github.io/tech/editing-on-android/</guid>
+      <guid>http://localhost:1313/tech/editing-on-android/</guid>
       <description>&lt;p&gt;I can&amp;rsquo;t access my laptop for a month, so I decided to make a HTML editing setup on my android device, so I can update my website regularly. I have made the the sample templates already in VS Codium, so I just have to edit them in the code editor and my page is up and running.&lt;/p&gt;&#xA;&lt;p&gt;I am using Acode editor for editing the html of my website. Acode is a Free and Open Source Software like most of the software I use. I have installed it last week and it felt like a complete IDE, meaning, I can&amp;rsquo;t differentiate between the features of VS Codium and Acode. You can also edit the html in notepad of the computer, not sure about the possibility in android, but I find it easier to edit in IDE. Auto-completion feature in IDE makes my job as a webmaster easier.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Chrome is faster than Mozilla Firefox</title>
-      <link>https://maxcyberspace.github.io/tech/google-chrome/</link>
+      <link>http://localhost:1313/tech/google-chrome/</link>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://maxcyberspace.github.io/tech/google-chrome/</guid>
+      <guid>http://localhost:1313/tech/google-chrome/</guid>
       <description>&lt;p&gt;I ditched Google Chrome after they blocked the ublock origin extension. I cannot imagine now to surf the internet without an adblocker that&amp;rsquo;s why I switched fully to Mozilla Firefox on all my devices.&lt;/p&gt;&#xA;&lt;p&gt;And today after 4-5 months, I used Google Chrome because some website wasn&amp;rsquo;t working as intended and I have found that Chrome is faster than Firefox. I was using this Chrome build for a year before switching to Firefox. But it is still faster than Firefox and I have also noticed that the sites work better and load faster on Chrome as compared to Firefox.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows LTSC</title>
-      <link>https://maxcyberspace.github.io/tech/windows-ltsc/</link>
+      <link>http://localhost:1313/tech/windows-ltsc/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://maxcyberspace.github.io/tech/windows-ltsc/</guid>
+      <guid>http://localhost:1313/tech/windows-ltsc/</guid>
       <description>&lt;p&gt;I moved back to Windows 10 from Linux Mint one and half year back because I was done with the Linux world. Linux is a great operating system for servers and I never got a chance to see its server side, but I was definitely not impressed by the Desktop side of the Linux. I have spent four years using Linux and I have tried many distros in that period but at the end as I grew up I decided to just install Windows 10 LTSC.&lt;/p&gt;</description>
     </item>
   </channel>
