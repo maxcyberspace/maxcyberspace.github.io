@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29
 lastmod = 2025-11-29
-draft = true
+draft = false
 title = 'Google Chrome is faster than Mozilla Firefox'
 +++
 

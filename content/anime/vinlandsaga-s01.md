@@ -1,7 +1,7 @@
 +++
 date = 2026-01-30
 lastmod = 2026-01-30
-draft = true
+draft = false
 title = 'Vinland Saga Season 1'
 +++
 

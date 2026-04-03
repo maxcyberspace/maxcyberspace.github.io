@@ -1,9 +1,8 @@
 +++
 date = 2025-10-15
 lastmod = '2026-02-20'
-draft = true
+draft = false
 title = 'Windows LTSC'
-tags = ["windows 10", "microsoft"]
 +++
 
 I moved back to Windows 10 from Linux Mint one and half year back because I was done with the Linux world. Linux is a great operating system for servers and I never got a chance to see its server side, but I was definitely not impressed by the Desktop side of the Linux. I have spent four years using Linux and I have tried many distros in that period but at the end as I grew up I decided to just install Windows 10 LTSC.

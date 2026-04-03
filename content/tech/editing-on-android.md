@@ -1,7 +1,7 @@
 +++
 date = 2025-12-20
 lastmod = 2025-12-20
-draft = true
+draft = false
 title = 'Editing on Android'
 +++
 

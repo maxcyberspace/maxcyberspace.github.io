@@ -1,7 +1,7 @@
 +++
 date = 2025-11-20
 lastmod = 2025-11-20
-draft = true
+draft = false
 title = 'Lassi'
 +++
 

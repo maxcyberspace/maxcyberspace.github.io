@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Max&#39;s CyberSpace</title>
-    <link>http://localhost:1313/</link>
+    <link>https://maxcyberspace.github.io/</link>
     <description>Recent content on Max&#39;s CyberSpace</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maxcyberspace.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>April 2026</title>
-      <link>http://localhost:1313/updates/2026/04/</link>
+      <link>https://maxcyberspace.github.io/updates/2026/04/</link>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/2026/04/</guid>
+      <guid>https://maxcyberspace.github.io/updates/2026/04/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Site theme changed&lt;/li&gt;&#xA;&lt;li&gt;Website is now hosted on Github pages&lt;/li&gt;&#xA;&lt;li&gt;Using HUGO Static Site Generator for the site maintenance&lt;/li&gt;&#xA;&lt;li&gt;From now on only major updates will be published&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>March 2026</title>
-      <link>http://localhost:1313/updates/2026/04/</link>
+      <link>https://maxcyberspace.github.io/updates/2026/04/</link>
       <pubDate>Wed, 01 Apr 2026 00:22:47 +0530</pubDate>
-      <guid>http://localhost:1313/updates/2026/04/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Changed the website theme&lt;/li&gt;&#xA;&lt;li&gt;Redbubble Shop link is converted into button.&lt;/li&gt;&#xA;&lt;li&gt;Buttons for Home, About, Contact and Shop is added right below website header.&lt;/li&gt;&#xA;&lt;li&gt;Contact/email information is removed from the homepage and is shifted to dedicated &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt; page.&lt;/li&gt;&#xA;&lt;li&gt;About Me is removed from the homepage and is shifted to dedicated &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;About&lt;/a&gt; page.&lt;/li&gt;&#xA;&lt;li&gt;Article &lt;a href=&#34;http://localhost:1313/anime/spyxfamily/&#34;&gt;Review:Windows 10 LTSC&lt;/a&gt; recieved an update.&lt;/li&gt;&#xA;&lt;li&gt;All the sites updates will be published here from now.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://maxcyberspace.github.io/updates/2026/04/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Changed the website theme&lt;/li&gt;&#xA;&lt;li&gt;Redbubble Shop link is converted into button.&lt;/li&gt;&#xA;&lt;li&gt;Buttons for Home, About, Contact and Shop is added right below website header.&lt;/li&gt;&#xA;&lt;li&gt;Contact/email information is removed from the homepage and is shifted to dedicated &lt;a href=&#34;https://maxcyberspace.github.io/contact/&#34;&gt;Contact&lt;/a&gt; page.&lt;/li&gt;&#xA;&lt;li&gt;About Me is removed from the homepage and is shifted to dedicated &lt;a href=&#34;https://maxcyberspace.github.io/about/&#34;&gt;About&lt;/a&gt; page.&lt;/li&gt;&#xA;&lt;li&gt;Article &lt;a href=&#34;https://maxcyberspace.github.io/anime/spyxfamily/&#34;&gt;Review:Windows 10 LTSC&lt;/a&gt; recieved an update.&lt;/li&gt;&#xA;&lt;li&gt;All the sites updates will be published here from now.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://maxcyberspace.github.io/about/</link>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://maxcyberspace.github.io/about/</guid>
       <description>&lt;p&gt;I am Max, a Pharmacy student from India. I am in the last year of my graduation, apart from completing assignments, taking tests and working on projects I like to work on my website in my free time. This website is like a personal corner for me where I share my thoughts and interests on various topics. Generally, you will find the content related to food, anime and technology on this website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://maxcyberspace.github.io/contact/</link>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://maxcyberspace.github.io/contact/</guid>
       <description>&lt;p&gt;If you want to report external links not working or want to ask me something about the website then you can contact me via e-mail:&lt;/p&gt;&#xA;&lt;p&gt;maxwrites02[at]hotmail[dot]com&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vinland Saga Season 1</title>
-      <link>http://localhost:1313/anime/vinlandsaga-s01/</link>
+      <link>https://maxcyberspace.github.io/anime/vinlandsaga-s01/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/anime/vinlandsaga-s01/</guid>
+      <guid>https://maxcyberspace.github.io/anime/vinlandsaga-s01/</guid>
       <description>&lt;p&gt;I started watching this because it was based on the Vikings era and I am a huge Vikings (TV Series) fan. And to be honest, this anime is also one of the best. It definitely gets a place to be in my top 5 anime. I liked all the characters in this anime except King Sweyn. The animation and colours were too good. It felt refreshing to see something good after centuries. I haven&amp;rsquo;t watched season 2 yet, but I am sure that this anime will not disappoint me. &lt;em&gt;fingers crossed&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SpyxFamily Season 3</title>
-      <link>http://localhost:1313/anime/spyxfamily-s03/</link>
+      <link>https://maxcyberspace.github.io/anime/spyxfamily-s03/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/anime/spyxfamily-s03/</guid>
+      <guid>https://maxcyberspace.github.io/anime/spyxfamily-s03/</guid>
       <description>&lt;p&gt;I have finally watched the Season 3 completely and I have a word or two to write about it. The starting episodes were good, but I didn&amp;rsquo;t enjoyed the middle ones. The last episodes gave the true spy anime vibes. I liked the humor in the ending episodes more. But I have to say that I didn&amp;rsquo;t felt that much awed or excited while watching it I mean I was excited and waiting for the studio to drop this season but it didn&amp;rsquo;t matched my expectation. I think the comedy and goofy moments in this season can&amp;rsquo;t be compared with the previous seasons. Or I am just living in nostalgia?!?!?!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Editing on Android</title>
-      <link>http://localhost:1313/tech/editing-on-android/</link>
+      <link>https://maxcyberspace.github.io/tech/editing-on-android/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/editing-on-android/</guid>
+      <guid>https://maxcyberspace.github.io/tech/editing-on-android/</guid>
       <description>&lt;p&gt;I can&amp;rsquo;t access my laptop for a month, so I decided to make a HTML editing setup on my android device, so I can update my website regularly. I have made the the sample templates already in VS Codium, so I just have to edit them in the code editor and my page is up and running.&lt;/p&gt;&#xA;&lt;p&gt;I am using Acode editor for editing the html of my website. Acode is a Free and Open Source Software like most of the software I use. I have installed it last week and it felt like a complete IDE, meaning, I can&amp;rsquo;t differentiate between the features of VS Codium and Acode. You can also edit the html in notepad of the computer, not sure about the possibility in android, but I find it easier to edit in IDE. Auto-completion feature in IDE makes my job as a webmaster easier.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hyderabadi vs Muradabadi Biryani</title>
-      <link>http://localhost:1313/food/hyderabadi-vs-muradabadi-biryani/</link>
+      <link>https://maxcyberspace.github.io/food/hyderabadi-vs-muradabadi-biryani/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/food/hyderabadi-vs-muradabadi-biryani/</guid>
+      <guid>https://maxcyberspace.github.io/food/hyderabadi-vs-muradabadi-biryani/</guid>
       <description>&lt;p&gt;I am living in New Delhi for a month now, and yesterday I got a chance to try the infamous dish, Biryani. In my state, Biryani is not a common dish and cannot be found at the major places, so I don&amp;rsquo;t know how it tastes and what&amp;rsquo;s the standard taste for biryani, but the biryani I ate last night was very flavourful and tasty.&lt;/p&gt;&#xA;&lt;p&gt;There were two types of biryani on the shop; Hyderabadi and Muradabadi. They ask you at the counter that which one would you like. The Muradabadi one was like a pulav with less masalas, whereas the Hyderabadi one was full of masalas. So I decided to mix both of them and the flavours were so good.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Chrome is faster than Mozilla Firefox</title>
-      <link>http://localhost:1313/tech/google-chrome/</link>
+      <link>https://maxcyberspace.github.io/tech/google-chrome/</link>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/google-chrome/</guid>
+      <guid>https://maxcyberspace.github.io/tech/google-chrome/</guid>
       <description>&lt;p&gt;I ditched Google Chrome after they blocked the ublock origin extension. I cannot imagine now to surf the internet without an adblocker that&amp;rsquo;s why I switched fully to Mozilla Firefox on all my devices.&lt;/p&gt;&#xA;&lt;p&gt;And today after 4-5 months, I used Google Chrome because some website wasn&amp;rsquo;t working as intended and I have found that Chrome is faster than Firefox. I was using this Chrome build for a year before switching to Firefox. But it is still faster than Firefox and I have also noticed that the sites work better and load faster on Chrome as compared to Firefox.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lassi</title>
-      <link>http://localhost:1313/food/lassi/</link>
+      <link>https://maxcyberspace.github.io/food/lassi/</link>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/food/lassi/</guid>
+      <guid>https://maxcyberspace.github.io/food/lassi/</guid>
       <description>&lt;p&gt;Lassi is a refreshing drink for hot summers in India. Every state has its unique flavours and way of preparation. It is prepared with yogurt and water.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g of full fat yogurt&lt;/li&gt;&#xA;&lt;li&gt;Salt and black pepper (according to taste)&lt;/li&gt;&#xA;&lt;li&gt;Dried mint leaves&lt;/li&gt;&#xA;&lt;li&gt;200ml of water&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Take full fat yogurt in a big jar or mixer and add 200ml of water.&lt;/li&gt;&#xA;&lt;li&gt;Add salt, black pepper and dried mint leaves and mix/whisk it until the foam starts forming at the top and the water is completely mixed with the yogurt.&lt;/li&gt;&#xA;&lt;li&gt;If the drink is too thick you can add more water.&lt;/li&gt;&#xA;&lt;li&gt;It shouldn&amp;rsquo;t be watery or thick, the consistency should be like milk or smoothie.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tips&#34;&gt;Tips&lt;/h3&gt;&#xA;&lt;p&gt;If you have a sweet tooth, replace the salt, pepper and mint with sugar/jaggery.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spy x Family Season Episode 3</title>
-      <link>http://localhost:1313/anime/spyxfamily-s03e03/</link>
+      <link>https://maxcyberspace.github.io/anime/spyxfamily-s03e03/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/anime/spyxfamily-s03e03/</guid>
+      <guid>https://maxcyberspace.github.io/anime/spyxfamily-s03e03/</guid>
       <description>&lt;p&gt;I just finished watching the third episode and I think it is better than the first two. This episode was dedicated to Loid’s childhood or background. This season has a serious tone as compared to the previous seasons. I think this will be the last season. But I am not sure as I don’t follow any anime news and community, maybe there is content for another season, but I think they should end this anime in this season only. So far I liked the third episode and I would rate it 3.5/5.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SpyxFamily Season 3 is here</title>
-      <link>http://localhost:1313/anime/spyxfamily/</link>
+      <link>https://maxcyberspace.github.io/anime/spyxfamily/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/anime/spyxfamily/</guid>
+      <guid>https://maxcyberspace.github.io/anime/spyxfamily/</guid>
       <description>&lt;p&gt;The episodes of season 3 of SpyxFamily has started airing. I have been waiting for this season for a almost two years now. And, finally it has arrived. Currently, they have released two episodes and I have watched both of them.&lt;/p&gt;&#xA;&lt;p&gt;The first one was not good in my opinion. It was slow paced and felt dull, boring and repetitive. I can&amp;rsquo;t point out which part was repetitive, but it definitely was boring to sit through 20 minutes of that episode. Whereas, the second episode was somewhat better than the first. I liked the Loid&amp;rsquo;s childhood story and the arrival of the new teacher? in the Eden College.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows LTSC</title>
-      <link>http://localhost:1313/tech/windows-ltsc/</link>
+      <link>https://maxcyberspace.github.io/tech/windows-ltsc/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/windows-ltsc/</guid>
+      <guid>https://maxcyberspace.github.io/tech/windows-ltsc/</guid>
       <description>&lt;p&gt;I moved back to Windows 10 from Linux Mint one and half year back because I was done with the Linux world. Linux is a great operating system for servers and I never got a chance to see its server side, but I was definitely not impressed by the Desktop side of the Linux. I have spent four years using Linux and I have tried many distros in that period but at the end as I grew up I decided to just install Windows 10 LTSC.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mutton Curry</title>
-      <link>http://localhost:1313/food/mutton-curry/</link>
+      <link>https://maxcyberspace.github.io/food/mutton-curry/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/food/mutton-curry/</guid>
+      <guid>https://maxcyberspace.github.io/food/mutton-curry/</guid>
       <description>&lt;p&gt;This is my all time favourite and easy recipe to cook mutton curry. The ingredients can be easily found. This is my first time writing recipe/cooking post, if you want to give me any suggestion or feedback, you can find my email at the bottom of this page. In this recipe, I am using 500g mutton.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;500g Mutton&lt;/li&gt;&#xA;&lt;li&gt;2 Cup Mustard Oil/ Cooking Oil&lt;/li&gt;&#xA;&lt;li&gt;2 Small to Medium Sized Onion&lt;/li&gt;&#xA;&lt;li&gt;2 Small to Medium Sized Tomatoes&lt;/li&gt;&#xA;&lt;li&gt;2 Green Chillies&lt;/li&gt;&#xA;&lt;li&gt;2 Garlic Cloves&lt;/li&gt;&#xA;&lt;li&gt;2 Tbsp Yogurt&lt;/li&gt;&#xA;&lt;li&gt;1 Tbsp Salt&lt;/li&gt;&#xA;&lt;li&gt;1/2 Turmeric powder&lt;/li&gt;&#xA;&lt;li&gt;2 Tbsp Kashmiri Red Chilli Powder&lt;/li&gt;&#xA;&lt;li&gt;2-4 Tbsp Meat Masala&lt;/li&gt;&#xA;&lt;li&gt;2 Green Cardamom, 2 Cumin and 5-6 Black Pepper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;First, clean the mutton with water thoroughly. Make fine paste of Onion, tomatoes, green chillies and garlic. I recommend using mortar pestle for crushing garlic but if you don&amp;rsquo;t have it, make sure the garlic cloves are finely chopped. Add the fine paste, and turmeric, salt, kashmiri red chilli powder into the mutton. Add yogurt with 1 tbsp of mustard oil and mix it well. Keep the marinated meat aside for 10-15 minutes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I will not buy anything online</title>
-      <link>http://localhost:1313/misc/i-will-not-buy-anything-online/</link>
+      <link>https://maxcyberspace.github.io/misc/i-will-not-buy-anything-online/</link>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/misc/i-will-not-buy-anything-online/</guid>
+      <guid>https://maxcyberspace.github.io/misc/i-will-not-buy-anything-online/</guid>
       <description>&lt;p&gt;This is a rant post.&lt;/p&gt;&#xA;&lt;p&gt;I have decided to not buy or order anything from online websites like Amazon, Flipkart, Zomato, Blinkit etc. These services are not meant for convenience anymore, these websites have started charging convenience charges if you order something from them. I can let the convenience charges pass, but charging extra money for Cash On Delivery option is not good and, these charges changes according to the order&amp;rsquo;s cost. One more ridiculous charge is the handling fee; they&amp;rsquo;re charging Rs 100-200 as a handling fee and when the package arrives, the packaging isn&amp;rsquo;t even that great.&lt;/p&gt;</description>
     </item>
   </channel>

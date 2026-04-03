@@ -1,7 +1,7 @@
 +++
 date = 2025-08-05
 lastmod = 2025-08-05
-draft = true
+draft = false
 title = 'I will not buy anything online'
 +++
 

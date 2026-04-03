@@ -10,3 +10,8 @@ publishDir = "public"
 [permalinks]
   posts = "/:section/:title/"
   updates = "/updates/:year/:month/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

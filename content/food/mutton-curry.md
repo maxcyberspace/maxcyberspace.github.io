@@ -1,7 +1,7 @@
 +++
 date = 2025-09-04
 lastmod = 2025-09-04
-draft = true
+draft = false
 title = 'Mutton Curry'
 +++
 
